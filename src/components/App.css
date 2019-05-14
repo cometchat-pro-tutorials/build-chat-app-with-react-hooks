@@ -1,0 +1,32 @@
+.container {
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.login-form {
+  padding: 5%;
+  box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+}
+.login-form h3 {
+  text-align: center;
+  color: #333;
+}
+
+.login-container form {
+  padding: 10%;
+}
+
+.message {
+  overflow: hidden;
+}
+
+.balon1 {
+  float: right;
+  background: #35cce6;
+  border-radius: 10px;
+}
+
+.balon2 {
+  float: left;
+  background: #f4f7f9;
+  border-radius: 10px;
+}
